@@ -1,0 +1,4 @@
+symbol,price,volume,price_usd,volume_flag
+AAPL,190,1000,190.0,LOW
+TSLA,250,2000,250.0,HIGH
+NVDA,800,1500,800.0,LOW
